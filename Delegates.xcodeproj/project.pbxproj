@@ -26,6 +26,7 @@
 		9421A03D1D185AAE004046C0 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9421A0401D185AAE004046C0 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		9421A0421D185AAE004046C0 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9421A0481D18692D004046C0 /* SSNAutoFormatHandler.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = SSNAutoFormatHandler.h; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -62,6 +63,7 @@
 				9421A0351D185AAE004046C0 /* AppDelegate.m */,
 				9421A0371D185AAE004046C0 /* ViewController.h */,
 				9421A0381D185AAE004046C0 /* ViewController.m */,
+				9421A0481D18692D004046C0 /* SSNAutoFormatHandler.h */,
 				9421A03A1D185AAE004046C0 /* Main.storyboard */,
 				9421A03D1D185AAE004046C0 /* Assets.xcassets */,
 				9421A03F1D185AAE004046C0 /* LaunchScreen.storyboard */,

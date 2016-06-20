@@ -7,8 +7,9 @@
 //
 
 #import <UIKit/UIKit.h>
+#import "SSNAutoFormatHandler.h"
 
-@interface ViewController : UIViewController
+@interface ViewController : UIViewController <UITextFieldDelegate, SSNAutoFormatHandler>
 
 
 @end
